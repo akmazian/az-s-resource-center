@@ -1,0 +1,422 @@
+{
+    "TotalCount": 58,
+    "Departments": [
+        {
+            "DepartmentAbbreviation": "A S",
+            "DepartmentFullName": "AEROSPACE STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "A S",
+            "DepartmentFullName": "AEROSPACE STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "A&S",
+            "DepartmentFullName": "ARTS AND SCIENCES DEAN'S OFFICE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "AES",
+            "DepartmentFullName": "AMERICAN ETHNIC STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "AIS",
+            "DepartmentFullName": "AMERICAN INDIAN STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "AMATH",
+            "DepartmentFullName": "APPLIED MATHEMATICS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ANTH",
+            "DepartmentFullName": "ANTHROPOLOGY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ART",
+            "DepartmentFullName": "ART, ART HISTORY, AND DESIGN",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ART H",
+            "DepartmentFullName": "ART HISTORY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ASIAN",
+            "DepartmentFullName": "ASIAN LANGUAGES AND LITERATURE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ASTBIO",
+            "DepartmentFullName": "ASTROBIOLOGY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ASTR",
+            "DepartmentFullName": "ASTRONOMY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "BIOL",
+            "DepartmentFullName": "BIOLOGY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "CHEM",
+            "DepartmentFullName": "CHEMISTRY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "CHID",
+            "DepartmentFullName": "COMPARATIVE HISTORY OF IDEAS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "CLAS",
+            "DepartmentFullName": "CLASSICS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "CMS",
+            "DepartmentFullName": "CINEMA AND MEDIA STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "COM",
+            "DepartmentFullName": "COMMUNICATION",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "CS&SS",
+            "DepartmentFullName": "CENTER FOR STATISTICS & THE SOCIAL SCI",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "CSDE",
+            "DepartmentFullName": "CTR FOR STUDIES IN DEMOGRAPHY & ECOLOGY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "DANCE",
+            "DepartmentFullName": "DANCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "DIS ST",
+            "DepartmentFullName": "DISABILITY STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "DRAMA",
+            "DepartmentFullName": "DRAMA",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "DXARTS",
+            "DepartmentFullName": "DIGITAL ARTS AND EXPERIMENTAL MEDIA",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ECON",
+            "DepartmentFullName": "ECONOMICS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ENGL",
+            "DepartmentFullName": "ENGLISH",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "FIS",
+            "DepartmentFullName": "FRENCH AND ITALIAN STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "GEN ST",
+            "DepartmentFullName": "GENERAL STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "GEOG",
+            "DepartmentFullName": "GEOGRAPHY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "GERMAN",
+            "DepartmentFullName": "GERMAN STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "GWSS",
+            "DepartmentFullName": "GENDER, WOMEN, AND SEXUALITY STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "HIST",
+            "DepartmentFullName": "HISTORY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "HUM",
+            "DepartmentFullName": "CENTER FOR THE HUMANITIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "INTSCI",
+            "DepartmentFullName": "INTEGRATED SCIENCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ISS",
+            "DepartmentFullName": "INTEGRATED SOCIAL SCIENCES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "JSIS",
+            "DepartmentFullName": "JACKSON SCHOOL INTERNATIONAL STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "LING",
+            "DepartmentFullName": "LINGUISTICS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "LSJ",
+            "DepartmentFullName": "LAW, SOCIETIES, AND JUSTICE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "M SCI",
+            "DepartmentFullName": "MILITARY SCIENCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "M SCI",
+            "DepartmentFullName": "MILITARY SCIENCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "MATH",
+            "DepartmentFullName": "MATHEMATICS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "MELC",
+            "DepartmentFullName": "MIDDLE EASTERN LANGUAGES AND CULTURES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "MUSIC",
+            "DepartmentFullName": "MUSIC",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "N SCI",
+            "DepartmentFullName": "NAVAL SCIENCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "N SCI",
+            "DepartmentFullName": "NAVAL SCIENCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "NEUSCI",
+            "DepartmentFullName": "NEUROSCIENCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "PHIL",
+            "DepartmentFullName": "PHILOSOPHY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "PHYS",
+            "DepartmentFullName": "PHYSICS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "POL S",
+            "DepartmentFullName": "POLITICAL SCIENCE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "PREMAJ",
+            "DepartmentFullName": "PRE MAJOR ARTS AND SCIENCES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "PSYCH",
+            "DepartmentFullName": "PSYCHOLOGY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "ROMAN",
+            "DepartmentFullName": "ROMANCE LANGUAGES AND LITERATURE",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "SCAND",
+            "DepartmentFullName": "SCANDINAVIAN STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "SLAVIC",
+            "DepartmentFullName": "SLAVIC LANGUAGES & LITERATURES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "SOC",
+            "DepartmentFullName": "SOCIOLOGY",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "SPHSC",
+            "DepartmentFullName": "SPEECH AND HEARING SCIENCES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "SPS",
+            "DepartmentFullName": "SPANISH AND PORTUGUESE STUDIES",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        },
+        {
+            "DepartmentAbbreviation": "STAT",
+            "DepartmentFullName": "STATISTICS",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        }
+    ],
+    "Current": {
+        "CollegeAbbreviation": "a & s",
+        "FutureTerms": 0,
+        "Quarter": null,
+        "Year": null,
+        "Href": "/student/v5/department.json?college_abbreviation=a%20%26%20s&year=&quarter=&future_terms=0&page_start=&page_size="
+    },
+    "Next": null,
+    "Previous": null,
+    "PageSize": null,
+    "PageStart": null
+}

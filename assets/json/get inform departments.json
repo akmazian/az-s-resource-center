@@ -1,0 +1,23 @@
+{
+    "TotalCount": 1,
+    "Departments": [
+        {
+            "DepartmentAbbreviation": "INFORM",
+            "DepartmentFullName": "THE INFORMATION SCHOOL",
+            "Quarter": "0",
+            "Year": 0,
+            "Href": null
+        }
+    ],
+    "Current": {
+        "CollegeAbbreviation": "inform",
+        "FutureTerms": 0,
+        "Quarter": null,
+        "Year": null,
+        "Href": "/student/v5/department.json?college_abbreviation=inform&year=&quarter=&future_terms=0&page_start=&page_size="
+    },
+    "Next": null,
+    "Previous": null,
+    "PageSize": null,
+    "PageStart": null
+}
