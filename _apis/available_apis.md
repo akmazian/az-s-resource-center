@@ -37,9 +37,10 @@ Section Search
 Term
 : [qwq](#)
   : [➡️](#)
+: /student/v5/term/current.json
 
 Resource List
-: Return a bunch of useless stuff
+: Return a list of available APIs under SWS v5
   : [➡️](#)
 : /student/v5.json
 
