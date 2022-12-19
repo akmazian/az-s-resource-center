@@ -17,7 +17,7 @@ title: UW Design Hub
 tagline: A Resource Center for All UW Students
 description: Don't have any descriptions so far
 author: AZ Zhang, Echo Zhou, Esther Zhou
-baseurl: '/uw-design-hub' # the subpath of your site, e.g. /blog
+baseurl: '/uw-design-hub-api' # the subpath of your site, e.g. /blog
 url: 'https://akmazian.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: 'assets/images/logo.png'
