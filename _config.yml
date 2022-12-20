@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: UW Design Hub
-tagline: A Resource Center for All UW Students
+title: AZ's Resource Center
+tagline: Everything You Need
 description: Don't have any descriptions so far
-author: AZ Zhang, Echo Zhou, Esther Zhou
-baseurl: '/uw-design-hub-api' # the subpath of your site, e.g. /blog
+author: AZ Zhang
+baseurl: '/az-s-resource-center' # the subpath of your site, e.g. /blog
 url: 'https://akmazian.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: 'assets/images/logo.png'
