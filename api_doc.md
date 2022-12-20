@@ -1,6 +1,6 @@
 ---
 layout: page
-title: API Documentation
+title: UW API Documentation
 description: The detailed API Documentation for UW SWS REST API
 nav_order: 2
 ---
