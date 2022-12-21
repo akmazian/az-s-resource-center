@@ -7,7 +7,7 @@ nav_order: 2
 
 # CSS
 [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
+[@meida (prefers-color-scheme: dark)](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
 # SASS
 
 # Styled Components
