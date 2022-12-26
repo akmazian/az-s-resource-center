@@ -93,3 +93,6 @@ nav_external_links:
     - title: Sass Documentation
       url: https://sass-lang.com/documentation/
       hide_icon: false
+    - title: ZTM Free Resources
+      url: https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2022-12-24
+      hide_icon: false
