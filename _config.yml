@@ -17,10 +17,10 @@ title: AZ's Resource Center
 tagline: Everything You Need
 description: Don't have any descriptions so far
 author: AZ Zhang
-baseurl: '/az-s-resource-center' # the subpath of your site, e.g. /blog
-url: 'https://akmazian.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/az-s-resource-center" # the subpath of your site, e.g. /blog
+url: "https://akmazian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: 'assets/images/logo.png'
+logo: "assets/images/logo.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
@@ -29,54 +29,67 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Github Repo:
-    - 'https://github.com/akmazian/az-s-resource-center'
+    Github Repo:
+        - "https://github.com/akmazian/az-s-resource-center"
 footer_content:
 
 # Collections for website data
 collections:
-  staffers:
-  modules:
-  schedules:
-  announcements:
-  apis:
+    staffers:
+    modules:
+    schedules:
+    announcements:
+    apis:
 # Default layouts for each collection type
 defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
-      type: modules
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
-  - scope:
-      path: ''
-      type: apis
-    values:
-      layout: module
-
+    - scope:
+          path: ""
+          type: staffers
+      values:
+          layout: staffer
+          subpath: "/assets/images/"
+    - scope:
+          path: ""
+          type: modules
+      values:
+          layout: module
+    - scope:
+          path: ""
+          type: schedules
+      values:
+          layout: schedule
+    - scope:
+          path: ""
+          type: announcements
+      values:
+          layout: announcement
+    - scope:
+          path: ""
+          type: apis
+      values:
+          layout: module
 
 compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+    clippings: all
+    comments: all
+    endings: all
+    startings: []
+    blanklines: false
+    profile: false
 
 plugins:
-  - jekyll-seo-tag
+    - jekyll-seo-tag
+
+nav_external_links:
+    - title: Just the Docs on GitHub
+      url: https://github.com/just-the-docs/just-the-docs
+      hide_icon: false
+    - title: Just the Docs Documentation
+      url: https://just-the-docs.github.io/just-the-docs/
+      hide_icon: false
+    - title: QuickRef.me
+      url: https://quickref.me/
+      hide_icon: false
+    - title: Sass Documentation
+      url: https://sass-lang.com/documentation/
+      hide_icon: false
